@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE04OSPS-PC01B-4B-PHSENA106-streamed-phsen_battery_voltage
-last_request: '2021-12-06T20:35:11.287015Z'
+last_request: '2021-12-21T22:23:37.353581Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSPS-PC01B-4B-PHSENA106-streamed-phsen_battery_voltage/main/history/response.json
 status: discontinued
